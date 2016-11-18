@@ -35,6 +35,9 @@ gem 'capistrano-rails', group: :development
 # Twitch api
 gem 'kappa', '~> 1.0'
 
+#font awesome sass gem
+gem 'font-awesome-sass', '~> 4.7.0'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
